@@ -1,4 +1,5 @@
-import { useState } from "react";
+import axios from "axios";
+import { useEffect, useState } from "react";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 import NotificationButton from '../NotificationButton';
@@ -7,10 +8,18 @@ import './styles.css';
 function SalesCard() {
 
     const min = new Date(new Date().setDate(new Date().getDate() - 365)); //  Método para criar uma data de X dias atrás
-    const max  = new Date();
+    const max = new Date();
 
     const [minDate, setMinDate] = useState(min); // Usei o React Hook useState para determinar a data mínima.
     const [maxDate, setMaxDate] = useState(max); // Usei o React Hook useState para determinar a data máxima.
+
+    useEffect(() => {
+        axios.get("http://localhost:8080/sales")
+        .then(response => {
+            console.log(response.data);
+        })
+    }, []);
+
 
     return (
         <div className="dsmeta-card">
