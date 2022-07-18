@@ -1,8 +1,17 @@
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Projeto DSMeta
->  *Aplicação com as tecnologias mais demandadas do mercado*
+<h1 align="center">
+ ⚡Projeto DSMeta
+</h1>
+
+<p align="center">
+  ✨Aplicação com as tecnologias mais demandadas do mercado.✨
+</p>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/72041260/179550925-b0f69988-beec-4345-9c7c-8230727f8e53.gif" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/72041260/179551581-407d04c7-17ab-4993-ac6f-318a37d9b026.gif" />
 </div>
 
 ## Tecnologias utilizadas
