@@ -1,9 +1,13 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Projeto DSMeta
 >  *Aplicação com as tecnologias mais demandadas do mercado*
 
-## Realização
-[Desenvolvedora de Software](https://github.com/MirkaJuliet34/dsmeta)
-
+## Tecnologias utilizadas
+- Java 
+- JavaScript 
+- Springboot 
+- React 
+- Html 
+- CSS 
 
 ## Detalhes
 - Projetos backend e frontend
