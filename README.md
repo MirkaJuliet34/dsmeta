@@ -1,6 +1,10 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Projeto DSMeta
 >  *Aplicação com as tecnologias mais demandadas do mercado*
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/72041260/179550925-b0f69988-beec-4345-9c7c-8230727f8e53.gif" />
+</div>
+
 ## Tecnologias utilizadas
 - Java 
 - JavaScript 
