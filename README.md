@@ -247,3 +247,7 @@ import 'react-toastify/dist/ReactToastify.css';
   - Publish directory: frontend/dist
   - Variáveis de ambiente:
     - VITE_BACKEND_URL
+    
+ ## Site
+ 
+ - https://bdsmeta.netlify.app/
