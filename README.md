@@ -24,7 +24,6 @@
 
 ## Detalhes
 - Projetos backend e frontend
-- Projeto salvo no Github em monorepo
 - Visual estático front end
 
 
